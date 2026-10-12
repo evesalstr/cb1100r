@@ -21,7 +21,7 @@ scroll-behavior:smooth;
 body{
 
 background:
-radial-gradient(circle at top right,#0b1f4d 0%,#05070d 60%);
+radial-gradient(circle 2550px at top right,#0b1f4d 0%,#05070d 100%);
 
 font-family:'Rajdhani',sans-serif;
 color:white;
