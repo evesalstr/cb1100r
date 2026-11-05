@@ -679,4 +679,34 @@ grid-template-columns:1fr;
 
 }
 
+  
+  .pdf-links {
+
+display:flex;
+flex-wrap:wrap;
+gap:30px;
+
+margin-top:20px;
+margin-bottom:40px;
+
+}
+
+.pdf-links a {
+
+color:var(--yellow);
+font-size:1.3rem;
+font-weight:700;
+
+text-decoration:none;
+
+transition:.3s;
+
+}
+
+.pdf-links a:hover {
+
+color:white;
+text-decoration:underline;
+
+}
 }
